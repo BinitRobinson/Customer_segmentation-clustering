@@ -53,4 +53,12 @@ After prediction, the app provides:
 ---
 
 ## 📂 Project Structure
+customer-segmentation-ai/
+│── app.py
+│── customer_segmentation_model.pkl
+│── scaler.pkl
+│── requirements.txt
+│── README.md
+│── customer.png
+
 
