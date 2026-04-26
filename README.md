@@ -2,6 +2,8 @@
 
 A simple and effective Machine Learning web app that classifies customers into meaningful segments based on their behavior and helps businesses take better decisions.
 
+Live_App:https://customer-segmentation-ai.streamlit.app/
+
 ---
 
 ## 📸 Preview
